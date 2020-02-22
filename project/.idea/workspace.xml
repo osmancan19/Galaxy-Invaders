@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691f1ab4-1014-4c7b-b690-750574dff211" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/out/production/project/META-INF/project.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/credits.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/credits.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/res/Thumbs.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/res/credits.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/credits.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,12 +24,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="25" />
-    <option name="width" value="1750" />
-    <option name="height" value="970" />
   </component>
   <component name="ProjectId" id="1Tkdt88K56urmxx8AjhAA4PmOKI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -119,6 +109,7 @@
       <workItem from="1577127051707" duration="509000" />
       <workItem from="1577144277123" duration="96000" />
       <workItem from="1582391058683" duration="128000" />
+      <workItem from="1582391589162" duration="173000" />
     </task>
     <task id="LOCAL-00001" summary="Added to the listeners of the buttons of the menu class">
       <created>1574165950261</created>
