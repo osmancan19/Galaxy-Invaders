@@ -2,82 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="691f1ab4-1014-4c7b-b690-750574dff211" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/Controller/SessionListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/Controller/SessionListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/Model/ModelManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/Model/ModelManager.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/Model/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/Model/Player.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/project/View/GameSceneView.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/View/GameSceneView.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/SessionListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/SessionListener.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/ModelManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/ModelManager.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Model/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Model/Player.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/View/GameSceneView.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/View/GameSceneView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/META-INF/project.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/project/credits.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/project/credits.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/Thumbs.db" beforeDir="false" afterPath="$PROJECT_DIR$/res/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/res/credits.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/res/credits.jpg" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Model/ModelManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="718" column="41" selection-start-line="718" selection-start-column="41" selection-end-line="718" selection-end-column="41" />
-              <folding>
-                <element signature="e#15241#15242#0" expanded="true" />
-                <element signature="e#15305#15306#0" expanded="true" />
-                <element signature="e#38439#38440#0" expanded="true" />
-                <element signature="e#38468#38469#0" expanded="true" />
-                <element signature="e#38540#38541#0" expanded="true" />
-                <element signature="e#38589#38590#0" expanded="true" />
-                <element signature="e#38645#38646#0" expanded="true" />
-                <element signature="e#38681#38682#0" expanded="true" />
-                <element signature="e#38739#38740#0" expanded="true" />
-                <element signature="e#38776#38777#0" expanded="true" />
-                <element signature="e#38834#38835#0" expanded="true" />
-                <element signature="e#38871#38872#0" expanded="true" />
-                <element signature="e#38940#38941#0" expanded="true" />
-                <element signature="e#38988#38989#0" expanded="true" />
-                <element signature="e#39052#39053#0" expanded="true" />
-                <element signature="e#39095#39096#0" expanded="true" />
-                <element signature="e#39157#39158#0" expanded="true" />
-                <element signature="e#39198#39199#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/View/GameSceneView.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="228" column="103" selection-start-line="228" selection-start-column="103" selection-end-line="228" selection-end-column="103" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Model/Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-323">
-              <caret line="210" column="20" lean-forward="true" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Controller/SessionListener.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -94,16 +29,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/Model/Player.java" />
-        <option value="$PROJECT_DIR$/src/Controller/SessionListener.java" />
-        <option value="$PROJECT_DIR$/src/Model/ModelManager.java" />
-        <option value="$PROJECT_DIR$/src/View/GameSceneView.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
@@ -112,60 +37,6 @@
   </component>
   <component name="ProjectId" id="1Tkdt88K56urmxx8AjhAA4PmOKI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="project" type="b2602c69:ProjectViewProjectNode" />
-              <item name="project" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="View" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-    </panes>
-  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -212,18 +83,6 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -259,6 +118,7 @@
       <workItem from="1576874000987" duration="820000" />
       <workItem from="1577127051707" duration="509000" />
       <workItem from="1577144277123" duration="96000" />
+      <workItem from="1582391058683" duration="128000" />
     </task>
     <task id="LOCAL-00001" summary="Added to the listeners of the buttons of the menu class">
       <created>1574165950261</created>
@@ -410,37 +270,6 @@
     <option name="localTasksCounter" value="22" />
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19007093" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -450,21 +279,12 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added to the listeners of the buttons of the menu class" />
@@ -526,55 +346,5 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="976" y="523" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1577144277195" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Controller/SessionListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="187" lean-forward="true" selection-start-line="187" selection-end-line="187" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-323">
-          <caret line="210" column="20" lean-forward="true" selection-start-line="210" selection-start-column="20" selection-end-line="210" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Model/ModelManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="718" column="41" selection-start-line="718" selection-start-column="41" selection-end-line="718" selection-end-column="41" />
-          <folding>
-            <element signature="e#15241#15242#0" expanded="true" />
-            <element signature="e#15305#15306#0" expanded="true" />
-            <element signature="e#38439#38440#0" expanded="true" />
-            <element signature="e#38468#38469#0" expanded="true" />
-            <element signature="e#38540#38541#0" expanded="true" />
-            <element signature="e#38589#38590#0" expanded="true" />
-            <element signature="e#38645#38646#0" expanded="true" />
-            <element signature="e#38681#38682#0" expanded="true" />
-            <element signature="e#38739#38740#0" expanded="true" />
-            <element signature="e#38776#38777#0" expanded="true" />
-            <element signature="e#38834#38835#0" expanded="true" />
-            <element signature="e#38871#38872#0" expanded="true" />
-            <element signature="e#38940#38941#0" expanded="true" />
-            <element signature="e#38988#38989#0" expanded="true" />
-            <element signature="e#39052#39053#0" expanded="true" />
-            <element signature="e#39095#39096#0" expanded="true" />
-            <element signature="e#39157#39158#0" expanded="true" />
-            <element signature="e#39198#39199#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/View/GameSceneView.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="228" column="103" selection-start-line="228" selection-start-column="103" selection-end-line="228" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
   </component>
 </project>
